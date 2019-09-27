@@ -5,7 +5,7 @@
 ### On RPi
 ```
 sudo apt install git
-git clone git@github.com:aswinkumar1999/RPi_Video_Stream.git 
+git clone https://github.com/aswinkumar1999/RPi_Video_Stream.git
 cd RPi_Video_Stream
 chmod u+x install.sh
 ./install.sh
